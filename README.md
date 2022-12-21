@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 - 🔭 I’m currently working on **frontend**
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning __Frontend Development__
 
 - 👨‍💻 All of my projects are available at [https://iasvivekportfolio.netlify.app/](https://iasvivekportfolio.netlify.app/)
 
