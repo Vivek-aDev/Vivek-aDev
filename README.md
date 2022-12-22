@@ -1,8 +1,8 @@
 ![Header](./github-header-image.png)
 
-<h3 align="center">A beginner Frontend developer</h3>
+<!-- <h3 align="center">A beginner Frontend developer</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
-- 🔭 I’m currently working on Frontend
+<!-- - 🔭 I’m currently working on Frontend -->
 
 - 🌱 I’m currently learning __Frontend Development__
 
