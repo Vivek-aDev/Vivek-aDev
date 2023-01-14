@@ -1,4 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=16A34A&width=435&lines=Full-stack+Developer;UI%2FUX+enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=16A34A&width=435&lines=Full-stack+Developer;UI%2FUX+enthusiast;Always+learning)](https://git.io/typing-svg)
   <!-- ![Header](./github-header-image.png)  -->
 
 <!-- <h3 align="center">A beginner Frontend developer</h3> -->
