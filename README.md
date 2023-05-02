@@ -8,7 +8,7 @@
 
 <!-- - 🔭 I’m currently working on Frontend -->
 
-- 🌱 I’m currently learning __Frontend Development__
+- 🌱 I’m currently learning __Frontend Development (ReactJS)__
 
 - 👨‍💻 All of my projects are available at [https://iasvivekportfolio.netlify.app/](https://iasvivekportfolio.netlify.app/)
 
