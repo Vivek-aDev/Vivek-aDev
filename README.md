@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning __Frontend Development (ReactJS)__
 
-- 👨‍💻 All of my projects are available at [https://iasvivekportfolio.netlify.app/](https://iasvivekportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://iasvivekportfolio.netlify.app/](https://vivekadevportfolio.netlify.app/)
 
 - 📫 How to reach me **vivekananda.work2022@gmail.com**
 - 
