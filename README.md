@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning __Frontend Development (ReactJS)__
 
-- 👨‍💻 All of my projects are available at [https://vivekadevportfolio.netlify.app/](https://vivekadevportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [ https://vivekadev.netlify.app/ ]
 
-- 📫 How to reach me **vivekananda.work2022@gmail.com**
+- 📫 How to reach me **vivekanandasahu.dev@gmail.com**
   
 
 <h3 align="left">Connect with me:</h3>
