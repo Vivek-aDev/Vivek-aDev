@@ -8,9 +8,9 @@
 
 <!-- - 🔭 I’m currently working on Frontend -->
 
-- 🌱 I’m currently learning __Frontend Development (ReactJS)__
+- 🧑🏻‍💻 An enthusiast __Frontend Developer (ReactJS)__
 
-- 👨‍💻 All of my projects are available at [ https://vivekadev.netlify.app/ ]
+- 👨‍💻 All of my projects are available at https://vivekadev.netlify.app/
 
 - 📫 How to reach me **vivekanandasahu.dev@gmail.com**
   
